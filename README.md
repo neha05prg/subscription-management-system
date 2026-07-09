@@ -117,4 +117,3 @@ This project demonstrates practical implementation of:
 
 ---
 
-This version looks much more professional on GitHub and clearly showcases your technical skills. It highlights not only what the project does but also the architecture, security, and technologies involved, making it appealing to recruiters and interviewers.
